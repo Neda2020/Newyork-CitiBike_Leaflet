@@ -1,6 +1,9 @@
 # Citi Bike NYC Interactive Map
 
 This project visualizes Citi Bike station data in New York City using an interactive map built with **Leaflet.js**. Users can switch between a **basic map** view and an **advanced map** view with enhanced features like color-coded markers based on station capacity.
+## Data Source
+The station information is fetched from the following Citi Bike GBFS API:
+[https://gbfs.citibikenyc.com/gbfs/en/station_information.json](https://gbfs.citibikenyc.com/gbfs/en/station_information.json)
 
 ## Features
 
